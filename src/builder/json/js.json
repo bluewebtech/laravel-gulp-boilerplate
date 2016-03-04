@@ -1,0 +1,5 @@
+{
+  "src": "resources/js/app/main.js",
+  "dest": "public/assets/js",
+  "webpack": "builder/config/webpack.config.js"
+}
