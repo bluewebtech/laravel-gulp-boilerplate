@@ -1,6 +1,6 @@
 {
   "browser_sync": {
-    "proxy_url": "http://laravel-gulp-boilerplate.local/",
+    "proxy_url": "http://<the-host>.local/",
     "inject_changes": true
   }
 }
